@@ -30,10 +30,8 @@ If you apply yourself during this course, here are the new superpowers you can h
 
 - Structure your content logically using SEO-friendly heading hierarchy
 - Choose semantic elements to accessibly describe different kinds of content
-
 - Differentiate between absolute and relative links
 - Use different kinds of hyperlinks (internal, external, anchor, email, phone)
-
 - Include foreground images in your website with meaningful alternative text
 - Include background images and know when to choose which
 
